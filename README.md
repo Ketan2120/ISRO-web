@@ -2,7 +2,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=dakshsinghrathore%2FISRO-web%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/Ketan2120/ISRO-web)
+![GitHub forks](https://img.shields.io/github/forks/ketan270/ISRO-web)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ketan270/ISRO-web)
 ![GitHub contributors](https://img.shields.io/github/contributors/ketan270/ISRO-web)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ketan270/ISRO-web)
@@ -16,14 +16,13 @@
 
 <p> <a name="introduction"></a> 
 <div align="center">
-
 </div>
 
 My project, **ISRO-web**, is inspired by the design and user experience of `SpaceX's` official website. This initiative embodies my ambition to bring a comparable level of user engagement and innovation to ISRO's online presence. By incorporating the `aesthetic` and `functionality` of SpaceX's website, my goal is to enhance ISRO's digital platform, showcasing its `achievements`, `missions`, and `contributions` to space exploration more effectively.
 
-
-
-> Live 🔗 https://isro-website1.netlify.app/
+## 🛰️ ISRO WEBSITE THAT IS WORTH LOOKING AT <a href="" target="_blank">(Click the portal to go):</a><br>
+  
+  <a href="https://isro-website1.netlify.app/"><img id="portal" height="100" src="https://media.tenor.com/fWA2N8CPWEkAAAAi/sonic-mania.gif"></a>
 
 </p>
 
@@ -65,14 +64,14 @@ My project, **ISRO-web**, is inspired by the design and user experience of `Spac
 
 ## <a name="quick-start">🚀 Quick start</a> 
 
-Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an [issue](https://github.com/dakshsinghrathore/ISRO-web/issues/new) or submit a pull request. Make sure to follow the project's code of conduct.
+Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please open an [issue](https://github.com/ketan270/ISRO-web/issues/new) or submit a pull request. Make sure to follow the project's code of conduct.
 
 > **Note**: If you are new to open source contributions, you can refer to [this](https://opensource.guide/how-to-contribute/) guide by GitHub.
 
 > **Warning**: Please do not spam the repository with unnecessary PRs. Make sure to follow the project's [code of conduct](/CODE_OF_CONDUCT.md).
 
-- Go through the [CONTRIBUTING.md](https://github.com/dakshsinghrathore/ISRO-web/blob/main/CONTRIBUTING.md) file, where all the guidelines have been mentioned that will guide you to make your contribution.
-- Do check out the [project issue tracker](https://github.com/priyankarpal/ProjectsHut/issues) section.
+- Go through the [CONTRIBUTING.md](https://github.com/ketan270/ISRO-web/blob/main/CONTRIBUTING.md) file, where all the guidelines have been mentioned that will guide you to make your contribution.
+- Do check out the [project issue tracker](https://github.com/ketan270/ISRO-web/issues) section.
 
 ##  <a name="badges">📛 Badges</a>  
       
